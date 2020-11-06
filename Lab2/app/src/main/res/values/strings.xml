@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="submit">Submit</string>
+    <string name="submit_lock">Input number first!</string>
+    <string name="defaultText" translatable="false">0</string>
+    <string name="inputText">Enter number</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лабораторная 2</string>
+    <string name="submit">Отправить</string>
+    <string name="submit_lock">Сначала введите число!</string>
+    <string name="inputText">Введите число</string>
+</resources>

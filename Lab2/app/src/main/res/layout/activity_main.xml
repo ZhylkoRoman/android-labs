@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/MyTheme"
+        android:text="@string/defaultText"
+        android:layout_marginTop="100sp"/>
+
+
+    <EditText
+        android:id="@+id/input"
+        style="@style/MyTheme"
+        android:ems="10"
+        android:inputType="number"
+        android:text="" />
+
+    <Button
+        android:id="@+id/submitButton"
+        style="@style/MyTheme"
+        android:text="@string/submit" />
+
+</LinearLayout>
